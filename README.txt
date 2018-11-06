@@ -49,3 +49,4 @@
 3. Model_3-TextCNN-word2vec-submit.ipynb:70s/epoch左右，训练400轮，耗时8.5小时。
 4. 其它程序运行时间较短，几分钟即可。
 
+test
